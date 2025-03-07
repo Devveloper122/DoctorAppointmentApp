@@ -41,7 +41,7 @@ const appointmentsAdmin = async (req, res) => {
 
 }
 
-// API for appointment cancellation
+// 3). API for appointment cancellation
 const appointmentCancel = async (req, res) => {
     try {
 
