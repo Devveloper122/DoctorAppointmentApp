@@ -6,7 +6,7 @@ import validator from "validator";
 import { v2 as cloudinary } from "cloudinary";
 import userModel from "../models/userModel.js";
 
-// API for admin login
+// 1). API for admin login
 const loginAdmin = async (req, res) => {
     try {
 
