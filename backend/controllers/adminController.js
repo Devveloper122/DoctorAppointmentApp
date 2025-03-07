@@ -27,7 +27,7 @@ const loginAdmin = async (req, res) => {
 }
 
 
-// API to get all appointments list
+// 2). API to get all appointments list
 const appointmentsAdmin = async (req, res) => {
     try {
 
