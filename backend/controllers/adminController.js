@@ -112,7 +112,7 @@ const addDoctor = async (req, res) => {
     }
 }
 
-// API to get all doctors list for admin panel
+// 5). API to get all doctors list for admin panel
 const allDoctors = async (req, res) => {
     try {
 
