@@ -57,7 +57,7 @@ const appointmentCancel = async (req, res) => {
 
 }
 
-// API for adding Doctor
+// 4). API for adding Doctor
 const addDoctor = async (req, res) => {
 
     try {
