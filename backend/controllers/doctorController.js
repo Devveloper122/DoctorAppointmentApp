@@ -67,7 +67,7 @@ const appointmentCancel = async (req, res) => {
 
 }
 
-// API to mark appointment completed for doctor panel
+// 4). API to mark appointment completed for doctor panel
 const appointmentComplete = async (req, res) => {
     try {
 
