@@ -84,7 +84,7 @@ const loginUser = async (req, res) => {
     }
 }
 
-// API to get user profile data
+// 3). API to get user profile data
 const getProfile = async (req, res) => {
 
     try {
