@@ -130,7 +130,7 @@ const updateProfile = async (req, res) => {
     }
 }
 
-// API to book appointment 
+// 5). API to book appointment 
 const bookAppointment = async (req, res) => {
 
     try {
