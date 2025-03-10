@@ -99,7 +99,7 @@ const getProfile = async (req, res) => {
     }
 }
 
-// API to update user profile
+// 4). API to update user profile
 const updateProfile = async (req, res) => {
 
     try {
